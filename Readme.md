@@ -1,7 +1,5 @@
 # Kainztree Django Rest Framework Project
 
-Brief description of your project.
-
 ## Getting Started
 
 These instructions will help you set up and run the project on your local machine.
